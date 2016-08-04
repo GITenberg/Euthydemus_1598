@@ -1,0 +1,46 @@
+_repo: Euthydemus_1598
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: 'The Focus Philosophical Library; Title Page; Copyright page; Contents;
+  Acknowledgments; Introduction; Euthydemus; Interpretive Essay; Socrates'' Encounter
+  with the Sophists; The Sophistical Brothers (271a-278e); Socrates'' "Protreptic"
+  (278e-283a); The Conversation Gets Serious (283a-288d); Socrates Continues his "Protreptic"
+  (288d-293a); The Sophists'' Last Stand (293a-303b); Socrates and the Sophists: One
+  or Two?; Glossary; Selected Bibliography; Texts and Translations; Secondary Criticism;
+  Blank Page; Blank Page.'
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Classical literature'
+- !lcsh 'Sophists (Greek philosophy)'
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Logic -- Early works to 1800'
+- !lcc 'B'
+- GITenberg
+title: Euthydemus
+url: http://www.gutenberg.org/ebooks/1598
