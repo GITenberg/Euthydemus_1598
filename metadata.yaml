@@ -1,5 +1,5 @@
 _repo: Euthydemus_1598
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -25,6 +28,8 @@ description: 'The Focus Philosophical Library; Title Page; Copyright page; Conte
   (288d-293a); The Sophists'' Last Stand (293a-303b); Socrates and the Sophists: One
   or Two?; Glossary; Selected Bibliography; Texts and Translations; Secondary Criticism;
   Blank Page; Blank Page.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1598#Euthydemus
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
